@@ -197,23 +197,6 @@ The application is fully responsive and supports:
 
 ---
 
-# 🚀 Deployment
-
-This project can be deployed easily on:
-
-- Vercel
-- Netlify
-
-Recommended: Vercel
-
----
-
-# 📸 Screenshots
-
-Add your screenshots here after deployment.
-
----
-
 # 🔮 Future Improvements
 
 - Streaming AI responses
@@ -223,17 +206,3 @@ Add your screenshots here after deployment.
 - Cloud database storage
 - Dark/light themes
 
----
-
-# 👨‍💻 Author
-
-Aman Derwal
-
-- GitHub: https://github.com/derwalaman
-- LinkedIn: https://linkedin.com/in/amanderwal
-
----
-
-# 📄 License
-
-This project is for educational and assignment purposes.
